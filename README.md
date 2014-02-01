@@ -1,4 +1,4 @@
-brain_fuck
+brainfuck
 ==========
 
 believe it or not it is a programming language
